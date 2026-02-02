@@ -80,25 +80,27 @@ The SurveillanceProject system is designed as a modular, event-driven applicatio
 - The main video loop and the voice command listener run in separate threads.
 - Shared state (such as admin presence) is managed using thread-safe events to ensure reliable coordination.
 
-### **Summary Diagram**
+### Summary Diagram
+```text
 +-------------------+      +-------------------+
 |   Camera Input    |----->|  Face Detection   |
 +-------------------+      +-------------------+
-                                 |
-                                 v
+                                   |
+                                   v
 +-------------------+      +-------------------+      +-------------------+
 | Microphone Input  |----->| Voice Recognition |----->| Command Execution |
 +-------------------+      +-------------------+      +-------------------+
-                                 |                          |
-                                 v                          v
+                                   |                          |
+                                   v                          v
                         +-------------------+      +-------------------+
                         |  State Management |<---->|  Motion Detection |
                         +-------------------+      +-------------------+
-                                 |                          |
-                                 v                          v
+                                   |                          |
+                                   v                          v
                         +-------------------+      +-------------------+
                         |   Logging/Alerts  |      |   Visual Output   |
                         +-------------------+      +-------------------+
+```
 
 
 ## Upcoming Features
@@ -142,5 +144,6 @@ The SurveillanceProject is under active development. Planned enhancements includ
 
 **Have a feature request?**  
 Feel free to open an issue or contribute ideas!
+
 
 
