@@ -1,4 +1,4 @@
-# AI-Powered Smart Surveillance System
+# ArgusSystems: Multi-Modal AI Smart Surveillance System
 
 ## 📌 Overview
 An intelligent, GPU-accelerated surveillance solution that combines **face recognition**, **voice authentication**, and **real-time alerts** into a single adaptive security platform. Designed for efficiency, accuracy, and minimal false positives.
@@ -142,4 +142,5 @@ The SurveillanceProject is under active development. Planned enhancements includ
 
 **Have a feature request?**  
 Feel free to open an issue or contribute ideas!
+
 
