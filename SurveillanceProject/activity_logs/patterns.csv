@@ -1,0 +1,7 @@
+PersonID,Timestamp,X,Y,Activity,Duration
+Anzar,2025-08-20 16:39:58,0,0,normal,10
+Anzar,2025-08-20 14:39:58,0,0,loitering,10
+Anzar,2025-08-20 12:39:58,0,0,pacing,10
+Anzar,2025-08-20 10:39:58,0,0,normal,10
+Anzar,2025-08-20 08:39:58,0,0,running,10
+Anzar,2025-08-20 06:39:58,0,0,normal,10

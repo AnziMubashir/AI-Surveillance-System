@@ -1,0 +1,48 @@
+2025-08-20 21:50:52,859 - INFO - ===== Surveillance start =====
+2025-08-20 21:50:54,497 - INFO - Using device: cuda (PyTorch 2.5.1+cu121)
+2025-08-20 21:50:58,591 - INFO - Loaded 5 face(s) for 'Anzar'
+2025-08-20 21:50:58,752 - INFO - Loaded 4 face(s) for 'Baba'
+2025-08-20 21:50:58,884 - INFO - Loaded 3 face(s) for 'Haleema'
+2025-08-20 21:50:58,884 - INFO - Known faces loaded: ['Anzar', 'Baba', 'Haleema']
+2025-08-20 21:51:00,174 - INFO - Entering main loop. Press 'q' to quit.
+2025-08-20 21:51:00,646 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-00.jpg
+2025-08-20 21:51:00,861 - INFO - Saved snapshot: snapshots\snapshot_2025-08-20_21-51-00.jpg
+2025-08-20 21:51:01,050 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-01.jpg
+2025-08-20 21:51:01,294 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-01.jpg
+2025-08-20 21:51:01,511 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-01.jpg
+2025-08-20 21:51:01,730 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-01.jpg
+2025-08-20 21:51:01,978 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-01.jpg
+2025-08-20 21:51:02,203 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-02.jpg
+2025-08-20 21:51:02,471 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-02.jpg
+2025-08-20 21:51:02,712 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-02.jpg
+2025-08-20 21:51:02,937 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-02.jpg
+2025-08-20 21:51:03,141 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-03.jpg
+2025-08-20 21:51:03,363 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-03.jpg
+2025-08-20 21:51:03,605 - WARNING - Unknown face detected (dist=1.23, p=0.97). Snapshot: alerts\unknown_2025-08-20_21-51-03.jpg
+2025-08-20 21:51:03,844 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-03.jpg
+2025-08-20 21:51:04,050 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-04.jpg
+2025-08-20 21:51:04,278 - WARNING - Unknown face detected (dist=1.23, p=0.99). Snapshot: alerts\unknown_2025-08-20_21-51-04.jpg
+2025-08-20 21:51:04,485 - WARNING - Unknown face detected (dist=1.23, p=0.99). Snapshot: alerts\unknown_2025-08-20_21-51-04.jpg
+2025-08-20 21:51:04,697 - WARNING - Unknown face detected (dist=1.23, p=0.99). Snapshot: alerts\unknown_2025-08-20_21-51-04.jpg
+2025-08-20 21:51:04,902 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-04.jpg
+2025-08-20 21:51:05,127 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-05.jpg
+2025-08-20 21:51:05,347 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-05.jpg
+2025-08-20 21:51:05,573 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-05.jpg
+2025-08-20 21:51:05,796 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-05.jpg
+2025-08-20 21:51:06,039 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-06.jpg
+2025-08-20 21:51:06,273 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-06.jpg
+2025-08-20 21:51:06,501 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-06.jpg
+2025-08-20 21:51:06,700 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-06.jpg
+2025-08-20 21:51:06,905 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-06.jpg
+2025-08-20 21:51:07,119 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-07.jpg
+2025-08-20 21:51:07,336 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-07.jpg
+2025-08-20 21:51:07,600 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-07.jpg
+2025-08-20 21:51:07,893 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-07.jpg
+2025-08-20 21:51:08,268 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-08.jpg
+2025-08-20 21:51:08,660 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-08.jpg
+2025-08-20 21:51:08,935 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-08.jpg
+2025-08-20 21:51:09,227 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-09.jpg
+2025-08-20 21:51:09,495 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-09.jpg
+2025-08-20 21:51:09,755 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-09.jpg
+2025-08-20 21:51:10,015 - WARNING - Unknown face detected (dist=1.23, p=1.00). Snapshot: alerts\unknown_2025-08-20_21-51-10.jpg
+2025-08-20 21:51:10,453 - INFO - ===== Surveillance stopped =====
